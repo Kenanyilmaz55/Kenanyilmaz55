@@ -9,7 +9,6 @@
 
 - 🎓 Bilgisayar Mühendisliği 4. sınıf öğrencisiyim
 - 🤖 Veri Bilimi, Yapay Zeka, Makine Öğrenmesi ve Doğal Dil İşleme üzerine çalışıyorum
-- 💬 Python, TensorFlow, Scikit-learn, OpenCV, Raspberry Pi
 
 ---
 
