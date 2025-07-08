@@ -8,9 +8,8 @@
 ### 🚀 Hakkımda
 
 - 🎓 Bilgisayar Mühendisliği 3. sınıf öğrencisiyim
-- 🤖 Yapay Zeka, Makine Öğrenmesi, UWB ile Drone İletişimi ve Doğal Dil İşleme üzerine çalışıyorum
-- 💬 Python, TensorFlow, Scikit-learn, OpenCV, Raspberry Pi, UWB sistemler
-- 🌱 Şu anda "Drone Sürü Kontrolü" ve "Veri Odaklı Proje Önceliklendirme Sistemi" üzerine çalışıyorum
+- 🤖 Veri Bilimi, Yapay Zeka, Makine Öğrenmesi ve Doğal Dil İşleme üzerine çalışıyorum
+- 💬 Python, TensorFlow, Scikit-learn, OpenCV, Raspberry Pi
 
 ---
 
@@ -21,7 +20,7 @@
 | 🎯 Makine Öğrenmesi     | Scikit-learn, TensorFlow, Pandas                |
 | 🧬 Derin Öğrenme        | CNN, RNN, Keras                                 |
 | 🗣️ Doğal Dil İşleme     | Zemberek NLP, NLTK, SpaCy                       |
-| 🔍 Görüntü İşleme       | OpenCV, PIL                                     |
+| 🔍 Görüntü İşleme       | OpenCV                                          |
 | ✈️ Gömülü Sistemler     | Raspberry Pi, UART, UWB                         |
 | 📊 Veri Görselleştirme | Matplotlib, Seaborn                             |
 
@@ -68,8 +67,8 @@
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kenanyilmaz&show_icons=true&theme=radical" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenanyilmaz&layout=compact&theme=radical" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kenanyilmaz55&show_icons=true&theme=radical" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenanyilmaz55&layout=compact&theme=radical" width="45%"/>
 </p>
 
 ---
