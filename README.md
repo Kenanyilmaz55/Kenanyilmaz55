@@ -15,14 +15,16 @@
 
 ### 🧠 Uzmanlık Alanlarım
 
-| 🧩 Alan                 | ⚙️ Teknolojiler                                 |
-|------------------------|-------------------------------------------------|
-| 🎯 Makine Öğrenmesi     | Scikit-learn, TensorFlow, Pandas                |
-| 🧬 Derin Öğrenme        | CNN, RNN, Keras                                 |
-| 🗣️ Doğal Dil İşleme     | Zemberek NLP, NLTK, SpaCy                       |
-| 🔍 Görüntü İşleme       | OpenCV                                          |
-| ✈️ Gömülü Sistemler     | Raspberry Pi, UART, UWB                         |
-| 📊 Veri Görselleştirme | Matplotlib, Seaborn                             |
+| 🧩 Alan                     | ⚙️ Teknolojiler ve Yöntemler                                                                               |
+|----------------------------|-------------------------------------------------------------------------------------------------------------|
+| 📈 **Veri Bilimi**          | Pandas, NumPy, Feature Engineering                         |
+| 🎯 **Makine Öğrenmesi**     | Scikit-learn, TensorFlow, XGBoost, Model Evaluation, Cross-validation                  |
+| 🧬 **Derin Öğrenme**        | Keras, CNN, RNN, LSTM, PyTorch, TensorFlow                                                                 |
+| 🗣️ **Doğal Dil İşleme (NLP)** | Zemberek NLP, NLTK, spaCy, Transformers (BERT, GPT), Hugging Face, Türkçe Metin Analizi                    |
+| 🔍 **Görüntü İşleme**       | OpenCV, Görüntü Sınıflandırma, Segmentasyon, Kenar Tespiti, Medikal Görüntü Analizi                        |
+| 📊 **Veri Görselleştirme** | Matplotlib, Seaborn                                  |
+| ✈️ **Gömülü Sistemler**     | Raspberry Pi, UART, UWB (DWM1001), Gerçek Zamanlı Veri Toplama, Donanım-Yazılım Entegrasyonu              |
+| ⚙️ **Model Dağıtımı ve Takibi** |  FastAPI, Docker                                              |
 
 ---
 
